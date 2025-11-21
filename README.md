@@ -46,7 +46,7 @@ Clone the repository:
 
 Bash
 
-git clone https://github.com/yourusername/password-manager.git
+git clone https://github.com/dannylombardo/password_manager.git
 cd password-manager
 Install dependencies:
 
